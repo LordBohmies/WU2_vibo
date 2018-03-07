@@ -1,8 +1,7 @@
 <?php
-//Include META DATA
-require "resources/includes/head.php";
-//Include Header
-require "resources/views/header.php";
+//Including functions
+require ('resources/functions/functions.php');
+
 
 //Create function for the Subpages
 /*
@@ -18,6 +17,11 @@ require "resources/views/header.php";
 +- Redigera information.
 ++- Namn, Bild, Civilstatus osv.
 */
-//Include Footer
-require "resources/views/footer.php";
+if (){
+
+}
+
+
+include ('resources/views/layout.php');
+
  ?>

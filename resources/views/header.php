@@ -13,9 +13,9 @@
         </button>
         <div class="collapse navbar-collapse" id="navbar">
             <div class="navbar-nav mr-auto">
-                <a class="nav-item nav-link" href="#">Start</a>
-                <a class="nav-item nav-link" href="#">Posts</a>
-                <a class="nav-item nav-link" href="#">About</a>
+                <a class="nav-item nav-link" href="index.php">Start</a>
+                <a class="nav-item nav-link" href="index.php?posts">Posts</a>
+                <a class="nav-item nav-link" href="index.php?about">About</a>
             </div>
         </div>
         <!--LOGIN-->
