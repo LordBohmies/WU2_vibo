@@ -1,12 +1,1 @@
 /*CSS FÖR WEBBUTVECKLING 2 - Övningar*/
-.navbar {
-    background-color: #fc0fc0;
-}
-.navbar a {
-    color: #fff;
-}
-
-.navbar a:hover {
-    color: yellow;
-    background-color: black;
-}
