@@ -8,19 +8,19 @@ Att göra (i er mapp WU2_XxYy)
 3. I mappen css skapar du en fil som heter style.css.
 4. Skapa filerna mall_blogg.html & mall_post.html.
 
-index.php - Säkertställ att ni har med allt ni behöver och uppdatera den med ev. förbättringar som du kommit på under arbetets gång.
+index.php - Säkerställ att ni har med allt ni behöver och uppdatera den med ev. förbättringar som du kommit på under arbetets gång.
 
-mall.html - Säkertställ att ni har med allt ni behöver och uppdatera den med ev. förbättringar som du kommit på under arbetets gång.
+mall.html - Säkerställ att ni har med allt ni behöver och uppdatera den med ev. förbättringar som du kommit på under arbetets gång.
 
 style.css - Ge mall.html ett utseende. style.css kan komma att behövas kompletteras med kod allt eftersom du lägger till ytterligare mallar/undersidor.
 
-mall_blogg.html - Kopiera över innehållet från mall.html och anpassa innehållet i body för att visa inlägg. Tänk på att sidan skall mallen skall användas på en sida där blogg-inlägg, gästbok, nyheter eller portfolio skulle kunna användas
+mall_blogg.html - Kopiera över innehållet från mall.html och anpassa innehållet i body för att visa inlägg. Tänk på att mallen skall användas på en sida där blogg-inlägg, gästbok, nyheter eller portfolio skulle kunna visas.
 
 mall_post.html - Kopiera över innehållet från mall_blogg.html och anpassa innehållet i body för en sida som kommer användas för skriva och skicka inlägg.
 
 Inlämning:
 1. Gör en commit och pusha upp till ert repo. WU2_XxYy.
-2. Skriv en kommentar där ni inkluderat länk till ert bibliotek och Klicka på "Lämna in".
+2. På Progress skriv en kommentar där ni inkluderat länk till ert bibliotek och Klicka på "Lämna in".
 
 Länkar:
 https://github.com/LordBohmies/WU2_vibo
